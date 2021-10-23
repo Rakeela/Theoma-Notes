@@ -10,37 +10,6 @@ These ratios are subject to change.  For instance, I want more unnavigable theom
 I have a globe on order which I may label with France-sized regions to establish the lay of the land for this.  I will then record the region clusters below.
 
 ---
-Region clusters:
-* Usktelu-vicinity
-	* Traversibility:  2/5
-	* Development:  1/5
-	* Population:  2/5
-	* Greatest cause of deficits:  Protected primitivism
-	* Theome count:  19  (2,974 left)
-* Radradu-vicinity
-	* Traversibility:  4/5
-	* Development:  3/5
-	* Population:  3/5
-	* Greatest cause of deficits:  Cultural restraint
-	* Theome count:  19  (2,955 left)
-* Halaenura Forest
-	* Traversibility:  0/5
-	* Development:  0/5
-	* Population:  0/5
-	* Greatest cause of deficits:  Hostile forest theomes
-	* Theome count:  19 (2,936 left)
-* Neum-vicinity
-	* Traversibility:  4/5
-	* Development:  5/5
-	* Population:  3/5
-	* Greatest cause of deficits:  Industrialization
-	* Theome count:  19 (2,917 left)
-* Tursuli Ridge
-	* Traversibility:  1/5
-	* Development:  3/5
-	* Population:  2/5
-	* Greatest cause of deficits:  Mountain theomes
-	* Theome count:  19 (2,898 left)
 
 ...it has just occurred to me that I don't like the continents I've allocated with the numbers that I've allocated for them.  The landmass is moderately horrible, but I can still work with it.  The countdown sequence here with the number remaining is what. made me realize just how untenable this is.  So while I'll keep the written and unwritten works here, I'm going to transfer out the undefined ones.
 

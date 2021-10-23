@@ -6,7 +6,7 @@ I should import raptor-dragons.  The Vashael have a little bit of that stance, b
 
 There are also aquatic dragons, known as [[Veserus]].  They live in riverbanks, lakesides, and swamps.  They don't have gills; they do not breathe.
 
-Deep underground, there are other territories with other land gods.  The predominant dragons in those realms are [[Myrghon]] and [[]].  The underground theomes are dangerously hostile to violence, and mystic theomes are ubiquitous.
+Deep underground, there are other territories with other land gods.  The predominant dragons in those realms are [[Myrghon]] and [[Myrskor]].  The underground theomes are dangerously hostile to violence, and mystic theomes are ubiquitous.
 
 On the surface, there are also [[Vohntrai]], whose memories stretch back about four hundred years.  They have good memories, to a point.
 

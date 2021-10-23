@@ -1,4 +1,15 @@
-10820 theomes on the wall, take one down, pass it around, 10819 theomes on the wall...  In total, there will be a need for ~570 region clusters.
+10820 theomes on the wall, take one down, pass it around, 10819 theomes on the wall...  In total, there will be a need for ~570 region clusters.  I've got a globe on order which may induce recalculation of this after I've tiled it with appropriately sized pieces.
+
+---
+Names to use later:  Silasu, Estold, Brousk, Riles, Rothis, Ormash, Tias
+
+Names to use (if thematic):  Itat, Keldale, Tyang, Usktang, Uskbana
+
+Might split this again into thematic groups.  Such as Usktang and Uskbana, which sound like they're from the same culture.
+
+Credit to www.rinkworks.com/namegen/ for assisting with generating thousands of names.
+
+---
 
 Region clusters:
 * Usktelu-vicinity

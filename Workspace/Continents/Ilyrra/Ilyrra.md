@@ -279,13 +279,6 @@ Unwritten Regions:
 
 
 ---
-Names to use later:  Silasu, Estold, Brousk, Riles, Rothis, Ormash, Tias
-
-Names to use (if thematic):  Itat, Keldale, Tyang, Usktang, Uskbana
-
-Might split this again into thematic groups.  Such as Usktang and Uskbana, which sound like they're from the same culture.
-
----
 Written Regions:
 * Nyberinz Vicinity (15 theomes)
 		* 7 benevolent, 6 negotiable, 1 hostile, 1 missing

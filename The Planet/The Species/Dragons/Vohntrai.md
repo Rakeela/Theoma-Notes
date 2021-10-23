@@ -10,5 +10,7 @@ There is one further anomaly to the Vohntrai, for which they are sometimes sorte
 
 There is some fear around Vohntrai who are nearly transparent, because they have had centuries to learn their vicinity, and only the land gods can control someone who is invisible.  A Vohntrai who has been safe in one theome for so long has likely already attained the land god's blessing for whatever they are intending to do with their week of invisibility.
 
+It isn't likely to come up in any early-era stories, but there is one long-term advantage to the Vohntrai's short memories: They are forever young enough to not long for chaos.
+
 ---
 Back to [[Dragons]]

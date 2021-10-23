@@ -1,0 +1,5 @@
+Fate isn't a hidden system in Theoma.  Not... exactly.  It's invisible to most people most of the time, but skilled geomancers can see and study it.  They can and do publish books describing the fate systems of different theomes so that people of different specialties can learn the will of the land gods.
+
+One of the commonalities is that the land gods study people rather tirelessly.  The land gods study *everything* rather tirelessly.  They are arguably self-absorbed, in that they are constantly studying what happens inside of themselves.  The results of these studies are disseminated between the land gods, and so land gods of different specialties benefit from each others' analyses.
+
+Many of the events on Theoma are a little more self-similar than the events on Earth; functional patterns get replicated.

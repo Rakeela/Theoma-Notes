@@ -1,0 +1,3 @@
+A geomancer is someone who has trained in [[geomantic magic]] and begun seeking promises from many land gods in an agnostic fashion.  To avoid misusing their gifts or otherwise annoying the land gods, geomancers are often quite hesitant to use their magic.
+
+The stereotypical geomancer is somewhere between a lawyer and a druid.  They need to use information exactly in forming geomantic contracts, but meeting with land gods also involves a lot of trekking across Theoma's wilderness areas contemplating the beauty of nature while looking for mystic conjunctions in the landscape.

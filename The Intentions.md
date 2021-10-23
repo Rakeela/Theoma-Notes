@@ -1,0 +1,5 @@
+It is my intention that stories set in Theoma should showcase the affection and forebearance which true immortality makes possible.
+
+Whosoever lives forever in an ever-healing world, should surely not forever want for love.  For these are people who can move freely between the many fields of Fate in Theoma, learning many ways and seeking many opportunities for a life where they will love what they do and the people who they do it with.  The people of Theoma seek to move apart from conflict, preferring instead to spend joyous lifetimes in those places and professions that they find most beautiful, and with such company as they most ably adore.
+
+Nor are they static, but life, choice, and change continue throughout.  Someday I want to write about Theoma in different eras as well.  It's a slow-growing setting, but nevertheless remarkably inexorable, and will eventually be suitable for contemplating questions about hyper-urbanism.  The 'initial era' (in which Praoziu and Taisach are married and Nidrio begins developing) is actually something like the third era of the setting.

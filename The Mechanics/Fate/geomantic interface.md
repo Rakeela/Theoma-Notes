@@ -1,0 +1,7 @@
+The geomantic interface around each lesser divinity is the contact point between their necromantic soul and the geomantic energy of Theoma itself.  It could with equal accuracy be termed the necromantic interface, and is in some texts on necromancy.
+
+[[Fate]] is always pressing against the 'outside' of the geomantic interface, whereas the individual's soul is pressing against the 'inside' of the geomantic interface.  The balance of force between the two determines the decisions that people make.  Some of the more esoterically-minded people on Theoma believe that everything they think they observe in the world is actually an illusion generated on the boundary of the geomantic interface.
+
+Fate is always pressing against people and altering their decisions, but it has a finite potential to contravene the individual will.  Getting pressed too hard by Fate for some course of action that an individual is not willing to pursue causes Fate's influence over the geomantic interface to weaken, increasing necromantic talent.
+
+Necromancers rot because the way they've developed their necromantic energies at the interface boundary have severely attenuated the force with which Fate can touch their geomantic interface.  Without being able to make firm contact, it can no longer heal them.

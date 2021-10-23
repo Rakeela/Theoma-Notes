@@ -1,0 +1,20 @@
+A lesser spell than its famed relative [[True Gate]] which has had a role in many more stories on Theoma, Pocket Mansion maintains a personal hideaway for the geomancer.  The space that it connects to has usually been extensively personalized by the individual geomancer who made it.  Unfortunately, they can't directly show it to others, as Pocket Mansion is self-cast only.
+
+Prior to customization, the hideaway that this spell produces always initially resembles a blank wooden closet with a glowing orb hovering in the center of its ceiling.  The doorway to that closet does not open until a room past it has been extensively defined in spellworks etched on the inner surface of the door itself.  From there, further rooms can be defined the same way, by etching the definition of the next room in packed esoteric designs on the interior of each door.  There's not really a limit to how much the Pocket Mansion can be expanded, but it's very 'stiff' as geomantic constructs go.  Every room and everything within each room resists being created or modified, requiring a substantial effort with very exacting definitions of everything.  The materials tend to be a bit disappointing as well, since objects that resist all modification are... hard to work with and often not very comfortable.
+
+Geomancers can remain indefinitely in a Pocket Mansion, modifying the spell from within it to destroy unwanted materials and create new ones as needed to sustain life.  Just imagine eating food that resists being 'modified' and you'll have a sense of why this isn't a very popular course of action...  but it's doable.
+
+This spell must be enchanted on an item that the geomancer owns (the portal anchor), but only the geomancer can use it.  The portal anchor is left behind when the geomancer uses the spell, and when the geomancer comes out of their pocket mansion, they'll come out where their portal anchor is.  If there's no room for the geomancer to leave, they'll be stuck!  This can be used to imprison geomancers.
+
+Portal anchors can be any object at least as large as the casting geomancer's eye, which the geomancer casting Pocket Mansion must be capable of lifting with one hand.  Destroying a portal anchor will eject the geomancer and destroy their pocket mansion; however, they will not appear in the vicinity of the destroyed anchor, but rather will appear at some safe location near the edge of the theome.  Unexpected portal anchor destructions have occasionally resulted in long-trapped geomancers being freed.
+
+Imprisoned geomancers rather famously tend to develop the most extraordinarily elaborate pocket mansions, and may be upset to be freed destructively... although not usually.  Generally it's better to be let out destructively than not at all.  Prolonged isolation can do a number on anyone.
+
+Any really complete Pocket Mansion has a library in it.  Some geomancers fill these with their own notes and creations, but there's also a trick to 'importing books' while in a Pocket Mansion.  Geomancers who know how to do it are much less psychologically damaged by unexpected long stays in their own pocket mansion.  Having an artistic hobby also comes highly recommended.  Objects created in the Pocket Mansion can't be removed from them, but can be recreated.
+
+Since portal anchors can look very innocuous, Pocket Mansion is also a tool for infiltrating a geomancer into another space.  A geomancer with an accomplice they trust can retreat into their pocket mansion while letting the portal anchor be brought into a place that they could not go themselves.
+
+Land gods detest permanent incarceration and will eventually arrange for the release or destruction of any abandoned or restricted portal anchor.  For this reason, holding onto someone else's portal anchor without their permission is considered 'unlucky'.
+
+---
+Back to [[Example Geomantic Spells]]

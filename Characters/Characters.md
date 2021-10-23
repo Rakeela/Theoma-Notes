@@ -1,0 +1,1 @@
+This is the top-level link for the Characters section.  For more information, look at [[Land Gods]] or [[Lesser Divinities]].

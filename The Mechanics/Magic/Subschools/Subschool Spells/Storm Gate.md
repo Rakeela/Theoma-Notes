@@ -1,0 +1,18 @@
+Storm Gate is an advanced Wind Mage spell.  It opens a portal to a 'storm plane' that was prepared in advance for the purpose.  Storm Gate bypasses the slow casting time of normal weather manipulation, but risks angering the local land god, who may not have planned for a massive amount of screaming wind and rain to enter the local weather system when the wind mage casting this spell decides to use it.  Of course, they also might've.  Land gods prepare for all manner of unexpected things.  It's simply a risk.
+
+Storm Gate castings have to be prepared in advance, and are usually prepared very far in advance (years).  A prepared Storm Gate casting has an unpredictable lifespan of anywhere from a month to three decades; wind mages know about a week in advance when their Storm Gates are starting to collapse.  Many wind mages capable of casting this spell keep a storm gate prepared at all times, even though the spell is rarely safe or advantageous to use, because their awareness of the storm plane feels beautiful and uplifting.
+
+Storm Gates can also link to some very exotic kinds of 'weather' with the collaboration of another caster (most infamously, a collaborating necromancer can prepare a necromantic storm gate), but doing that is much more likely to surprise and upset the local land god when the storm gate is opened.  Collaborative gates infringe on their caster's awareness less than other kinds, and may be opened by either of the participating casters, even if they are far from each other.
+
+The most destructive form of collaborative storm gates are 'fire gates' which have been prepared with extremely hot, dry air; these however have a chance of collapsing when they're opened.  'Steam gates' prepared with extremely hot, moist air are more reliable, but less destructive.  Dispersing hot gates is one reason that conventional storm gates are prepared, as the pure storm gate is less dangerous than the sudden wave of extreme heat.  This defensive use of the storm gate spell rarely offends local land gods, who are more likely to be upset with the caster who unleashed the hot gate.
+
+Hot gates have a tendency to blast 'upwards' which reduces their area of effect.  For this reason, the most widespread damage comes from 'blizzard gates', which tend to open and spread across the ground.  They do not require collaborating with another caster.  Wind mages can prepare them solo.  While most wind mages consider storm gates beautiful, it's said that maintaining a 'blizzard gate' takes a toll on the wind mage who is doing so, as they can never escape the awareness of the vast cold churning in the 'blizzard plane'.
+
+It's also possible to prepare a Fog or Mist Gate to be opened at a moment's notice, though the slow propagation of mist makes this less notably advantageous over conventional slow casting.  As a result, most fog/mist manipulation by wind mages is done through normal casting instead.  The preparation of a fog or mist gate is usually done by wind mages who really love fog or mist, with the gates simply being kept until their associated 'mist plane' collapses.
+
+Up to three Storm Gates of any kind can be prepared at once.  Collaboratively prepared Storm Gates count towards the limit of both casters.  Prolific collaborators sometimes destroy already-prepared gates by accident when they collaborate in the creation of a fourth gate before the first was used; this problem is worsened as collaborative gates infringe on awareness less.
+
+Hot Gates are occasionally prized by artisans who want to superheat or steam something.  In this application, the greatest challenge is controlling the flow, as storm gates are very powerful.
+
+---
+Back to [[Technical Subschools of Geomancy]]

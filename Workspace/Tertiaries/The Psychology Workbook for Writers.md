@@ -1,0 +1,3 @@
+This workbook makes me feel too much like I'm dissecting characters!  It's strange and uncomfortable to consider using it.  I think I have difficulty with character psychology - with making characters fit my needs as a writer.
+
+There's a "character interview" program in AI Dungeon that I'm considering using with this.  I think the AI Dungeon people may read anything that goes through their service...

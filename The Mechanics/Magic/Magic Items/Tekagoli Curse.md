@@ -1,0 +1,17 @@
+A Tekagoli curse causes its bearer to experience profoundly mediocre luck.  Really good and really bad things are all blunted, while average and already-probable outcomes happen statistically more often than would otherwise *be* strictly probable.  These are sometimes called Tekagoli blessings by people who value them.
+
+Unlike most blessings and curses that are imbued onto magic items, these operate by a fairly wide area of effect, and so people can be sabotaged (or benefited in secret) by hiding a Tekagoli artifact near them.  This is considered particularly beneficial in hospitals, where people shouldn't be trying to do things other than quietly heal.  Artists and performers tend to react to discovering a Tekagoli artifact with some fury.
+
+Due to their wide area of effect, magic item merchants have strong opinions about whether they are willing to trade in Tekagoli curses.
+
+Tekagoli curses are named for the theome of Tekagol, which operates under this effect quite uniformly.  Tekagol is accordingly a terrible place to try to accomplish anything notable, and somewhat dreary in general.  It is however a good place to try to save money, as unexpected expenses are few and moderate in Tekagol.  Tekagoli curses can be worked by almost any geomancer who has spent a month (or so) in Tekagol, but they're easiest to create in Tekagol itself (where such enchantments do nothing until they're sent across the theome boundary).
+
+Tekagoli curses are generally very good for the longevity of their bearer.  Nobody ages on Theoma, but accidents, disasters, and hostile actions can all still get people killed.  Dying is VERY bad luck... so all Tekagoli curses blunt lethal hazards!  "Nobody ever dies in {Theome}" is a proverb spoken about a number of theomes, and Tekagol itself may be the most famous of them all.
+
+---
+Curse of the Poor Physician - These altruistic blessings are a variant of Tekagoli Curses which work only when they're being used by someone who stands to lose access to resources if other people are very healthy.  They are a standing prayer to the land god to improve the health of people whose good health impoverishes the bearer of the curse.  This is one of the blessings that applies to all of Tekagol, so people who visit Tekagol find their rivals grow healthier.
+
+Blessing of Bad Health - These rare variants on Tekagoli Curses are typically enchanted onto [[Brittle Ceramics]].  They express a willingness to be afflicted with mediocre fortune in health specifically, should it fits the land god's aims that the bearer of the curse be so afflicted.  Wearing a blessing of bad health is commonly seen as an excessive piety, though a few attentive farmers are keen to buy them at market, as they've noticed hanging amulets of bad health over their fields and compost heaps improves the quality of their soil.  These charms are actually a prayer for the health of microbial populations, but few people other than land gods understand the precise fate manipulation that goes into making one.  The land gods themselves are the primary source of amulets enchanted with blessings of bad health; they occasionally gift these to people and claim that sometimes fate *does* work better if they can occasionally sicken people with their consent.  Relatedly, people who wander wilderness areas sometimes bring these amulets to market, having retrieved them from where the land gods hung them in their own wilderness.
+
+---
+Back to [[Magic Items]]

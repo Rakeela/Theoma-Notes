@@ -1,0 +1,12 @@
+Geomantic magic is the basic magic of the land gods, but lesser divinities can learn to use it as well.  Geomantic magic could also fairly be termed thaumaturgy, as it is bluntly the magic of Theoma's reality itself.  An individual who is trained in geomancy is called a [[Geomancer]], or less commonly a thaumaturge.
+
+At this point, I haven't defined what geomancy can or can't do.  In theory, it has the capabilities of the land gods, who are scarcely ever prevented from doing anything.  In practice, nothing is meant to be solved like that in this setting.  Geomancy is largely borrowed power.
+
+As all lesser divine geomancers are subject to long-distance arbitrary vetos against every spell that they try to cast, the power of a lesser divine geomancer is primarily determined by the promises and tokens of esteem they have received from land gods.  These are their insulation against having their spells prevented from working, and every spell they cast must be cast in the name of a land god.  There is an aspect of the diplomat involved in getting the permissions needed to use geomantic spells, and then in exercising them without losing those permissions.
+
+Geomancers play a small, but real role in the society of the land gods as the land gods themselves measure it.  Although ancient geomancers are some of the most powerful lesser divinities on Theoma, learning geomancy is generally an actuarial blunder.  In the basic course of their profession, geomancers have to seek out and interpose on the time of the most ancient demi-omnipotent beings in the setting.  The older a geomancer gets, the more likely it is that at least one land god on Theoma dislikes them personally because of their involvement with land god society, and that's bad news for their interactions with [[fate]].
+
+In the desire to avoid falling to misfortunate, many people refuse to study geomancy.  As such, one of the common origins of geomancers is when an individual happens to befriend a specific land god, and agrees to bear geomantic authority in the name of that land god in particular.  Such individuals are titled priests, rather than by the general term geomancer.  Being a priest is much more actuarially favorable than being a geomancer.  There is a strong and well-obeyed taboo among the land gods against retaliating against the faithful priest of any other land god, because they don't want to punish each other for making friends among the lesser divinities.
+
+---
+See also:  [[Example Geomantic Spells]]

@@ -1,0 +1,11 @@
+If I'm to work on a Theoma vault, I have to decide how I'm going to structure it.
+
+The presumably dreadful first concept which occurred to me was that I could try to organize the archive by a kind of descending geographic structure.  Planet - Continent - Region - Theome - Subtheomic.  Subtheomic is the level where individual cities and landmark features start being mentioned, unless the landmark feature is so big it dominates a theome or region.
+
+Characters would be associated with an appropriate level - usually subtheomic, sometimes theomic, not higher.  Likewise organizations, which may occasionally be regional, and agreements between the land gods, which may exist at any scale including planetary.  Although it thereby offers places for a great many varieties of specific information, this proposal nevertheless presumes the absolute primacy of geographic data and geographically-organized character data.
+
+I think that primacy is interesting for this concept and similar to how I have organized my prior notes, but it is also immediately incorrect; the setting also needs files where I can scratch out magical mechanics.  Modifying the geographic structure therefore, a new top-level divisor could serve to split the archive between geographically-arranged location and character data on one side, and setting mechanics on the other.
+
+This is however only one proposal for how to organize the data, and I am certain a task like this has more than one possible organizational structure.  Hopefully I will think of another one soon, though regrettably I expect to be disappointed in myself in this respect.
+
+I will continue with this method for now, although another thing that I'm not sure where to sort is the species data.  I'm thinking I'll junk my current species data save for the dragon species thus far defined, and begin redefining.  Nothing necessarily prevents me from making this a dragon setting all the way through.  Where does it go?  Do I link it at the geographic level where a species is relevant?  Do I create a section under Mechanics, a la the Professions section I just made?

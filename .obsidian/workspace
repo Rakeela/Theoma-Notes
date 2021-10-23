@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "80ed15f0c6b91346",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc45c4818c2bdecf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Forbidden Folder/The Forbidden Page.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba8795cb40405c78",
+    "type": "split",
+    "children": [
+      {
+        "id": "93108bd413c2bed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555969aae44cfd5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0084449744e56099",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345
+  },
+  "right": {
+    "id": "d977629fd5661970",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bbfee34ba5e6fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a48df41bc81c354e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Forbidden Folder/The Forbidden Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc45c4818c2bdecf",
+  "lastOpenFiles": [
+    "The Forbidden Folder/The Forbidden Page.md",
+    "The Forbidden Folder/The Forbidden Subdirectory/Bestiality and the Land Gods.md",
+    "The Forbidden Folder/The Forbidden Subdirectory/Vashael Scent Competitions.md",
+    "The Forbidden Folder/The Forbidden Subdirectory/Egg-laying as a Practice of Magic.md",
+    "Workspace/Continents/Ilyrra/Ilyrra.md",
+    "The Mechanics/The Mechanics.md",
+    "Workspace/Continents Workspace.md",
+    "The Planet/Crops and Foods/Crops and Foods.md",
+    "Workspace/Continents/Reytas/Reytas.md",
+    "Workspace/Possible Organizational Systems For This Vault.md"
+  ]
+}

@@ -1,0 +1,8 @@
+The most common geomantic magic items are scrolls.  Casting any kind of long-term geomantic spell typically produces a pile of cast-off research scrolls covered in dense writing shaped in weird patterns and connected with complex spiky diagrams that reflect relevant geomantic influences.  These are produced while analyzing the local geomantic patterns as well as those counterfactual patterns which are relevant to the spell being constructed.  There is always a "final" scroll produced as a result of this effort... and that scroll itself can be enchanted with the spell that it describes, which is a way to be parsimonious with resources.  Doing so also makes discerning the shape and nature of the enchantment easier, at least to other geomancers.
+
+Geomantic scrolls are especially favored for spells which one might want to cancel at a moment's notice, as they can be nullified by destroying the scroll.  This is usually done by tearing it in half, though setting it on fire also works, as does immersing it in liquid if the scroll and its ink are not proof against the liquid that they're immersed in.  Spilling ink on a geomantic scroll also destroys it... as will passive erosion over time.  They're not especially durable.
+
+Geomantic scrolls are also sometimes used for permanent spells cast on buildings, in which case they'll typically be encased in a cornerstone or otherwise secured in a permanently sealed compartment protected within the building's structure.
+
+---
+Back to [[Magic Items]]

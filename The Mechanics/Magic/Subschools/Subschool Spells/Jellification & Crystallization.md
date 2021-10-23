@@ -1,0 +1,17 @@
+Jellification & Crystallization are a form of materialist manipulation that geomancers can also use in combat.  They're studied by materialists in a slower form that doesn't work on anything with a geomantic interface (ie, not people) and by geomancers in a faster, though weaker form that can affect geomantic interfaces.
+
+Jellification spells make chemical bonds weaker and more amorphous, whereas crystallization spells make chemical bonds stronger and more regular.  Aimed at objects, the effects depend on what you're casting it on.  Materialists use these as an artisan tool, though it can be difficult to work with (unpredictable) and is not typically combined with attempting to create a [[Masterwork]].  Since it's difficult to specify the area of effect on a jellification spell, it's most commonly used as a burrowing spell, temporarily reducing the hardness of materials that are just being excavated anyways.  This can however destroy buried objects.
+
+The standard (ie, non-materialist) geomantic form of the jellification spell can also be aimed at living beings, in which case the spells typically cause weakness as well as the spontaneous formation of bruises and lesions.  This damage forms rapidly, but it also heals rapidly as the person's innate geomantic interface reconstructs their body.  However, prolonged exposures or repeated exposures in a short period of time can cause a kind of hideous leprotic death.
+
+Aiming a standard geomantic crystallization spell at a living person appears less effective at first, but it causes damage over time as newly brittle bits of their body start breaking when they move.  It's very painful and causes ugly petechia to proliferate across the body of the victim.  However, although theoretically a sufficient exposure to crystallization spells can cause death through internal bleeding, the actual damage inflicted is fairly low, and hostile crystallization spells are somewhat more sadistic than combat-worthy.
+
+Static crystallization fields are considered a kind of trap.  The field of pain effect that they cause is good area denial; even warriors who know rationally that the damage is slight will typically be reluctant to stand somewhere that hurts them.  In addition to thus-punishing movement through an area, static crystallization fields are also sometimes activated under alert victims to limit their motions.  Sufficiently prolonged residence in a crystallization field is lethal even for an individual holding still, but the damage can be greatly slowed by not moving, and an individual who for some reason knows they are only being held briefly may therefore acquiesce to standing still.
+
+Static jellification fields are not possible.  When attempting to imbue a jellification effect on a permanent structure, the magic erodes itself and dissipates, typically turning the object that was to be enchanted into a polluted puddle in the process.
+
+Materialist versions of these spells do not rely upon piety and will typically function even for disfavored casters.  However, the geomantic forms are prone to bias, and will be much less effective on people who are favored by the local land god.  For this reason, geomancers rarely even attempt to cast these spells on each other; the risk of the target having specific protection is too substantial.
+
+---
+Back to [[Technical Subschools of Geomancy]]
+Back to [[Example Geomantic Spells]]

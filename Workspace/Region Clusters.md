@@ -1,9 +1,9 @@
 10820 theomes on the wall, take one down, pass it around, 10819 theomes on the wall...  In total, there will be a need for ~570 region clusters.  I've got a globe on order which may induce recalculation of this after I've tiled it with appropriately sized pieces.
 
 ---
-Names to use later:  Silasu, Estold, Brousk, Riles, Rothis, Ormash, Tias
+Names to use later:  Silasu, Estold, Brousk, Riles, Rothis, Ormash, Tias, Arenth, Lyeltur
 
-Names to use (if thematic):  Itat, Keldale, Tyang, Usktang, Uskbana
+Names to use (if thematic):  Itat, Keldale, Tyang, Usktang, Uskbana, Tyves, Rynomi
 
 Might split this again into thematic groups.  Such as Usktang and Uskbana, which sound like they're from the same culture.
 
@@ -97,4 +97,17 @@ Region clusters:
 	* Greatest asset:  Skilled Vashael farmers
 	* Greatest cause of deficits:  Lack of ambition
 	* Theome count:  19 (10,592 left)
-* 
+* Issmos-vicinity
+	* Traversibility:  1/5
+	* Development:  4/5
+	* Population:  1/5
+	* Greatest asset:  Brilliant scientists
+	* Greatest cause of deficits:  Mountainous theomes
+	* Theome count:  19 (10,573 left)
+* Skelat-vicinity
+	* Traversibility:  3/5
+	* Development:  3/5
+	* Population:  2/5
+	* Greatest asset:  Creativity
+	* Greatest cause of deficits:  Intimidating culture
+	* Theome count:  19  (10,554 left)

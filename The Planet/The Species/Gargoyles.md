@@ -12,3 +12,6 @@ Pious gargoyles are also a thing.  Most of them seek some kind of geomantic spel
 
 ---
 I still want to include them in the setting, but I haven't decided if gargoyles are a kind of dragons.  Probably not, I think.  They're stone given necromantic potency.
+
+---
+Some hostile theomes are actually hidden cities of gargoyles.  They're formed when land gods want populations who have ENTIRELY assented to protector bindings... although it might in theory happen when land gods want populations who are entirely non-biological, too.  There's rarely any need for a sewage system in a city of people of animated stone.

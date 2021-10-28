@@ -199,4 +199,109 @@ Region clusters:
 	* Greatest asset:  Trade route
 	* Greatest cause of deficit:  Lack of resources
 	* Theome count:  19 (10,326 left)
+* Vikaenaten Ghost Region
+	* Traversibility:  3/5
+	* Development:  1/5
+	* Population:  0/5
+	* Greatest asset:  Beacon to suicidals
+	* Greatest cause of deficit: Mysterious disappearances
+	* Theome count:  19 (10,307 left)
+* Skwent-Vizity
+	* Traversibility:  5/5
+	* Development:  4/5
+	* Population:  5/5
+	* Greatest asset:  Massive Querent-Querent temples
+	* Greatest cause of deficit:  Local tradition of long, frequent vacations
+	* Theome count:  19 (10,288 left)
+* Skwent Desert Pass
+	* Traversibility:  3/5
+	* Development:  2/5
+	* Population:  1/5
+	* Greatest asset:  Single broad trade route
+	* Greatest cause of deficit:  Otherwise hostile desert theomes
+	* Special note:  There are several gargoyle cities in this desert, protected by 'hostile' land gods.
+	* Theome count:  19 (10,269 left)
+* Ram's Heart Valley
+	* Traversibility:  2/5
+	* Development:  5/5
+	* Population:  2/5
+	* Greatest asset:  Borehole mine
+	* Greatest cause of deficit:  Constant rainfall
+	* Special note:  These guys are trading with the underworld
+	* Theome count:  19 (10,250 left)
+* Nation of Sivicia
+	* Traversibility:  5/5
+	* Development:  5/5
+	* Population:  3/5
+	* Greatest asset:  Psychic beacon to post-draconics
+	* Greatest cause of deficit:  Foreign skepticism
+	* Special note:  Dedication to morphological freedom demands these; it's not however the only source of transformation.
+	* Theome count:  19 (10,231 left)
+* Nation of Idler-Limn
+	* Traversibility:  4/5
+	* Development:  5/5
+	* Population:  5/5
+	* Greatest asset:  Many flying cities
+	* Greatest cause of deficits:  Ecological damage
+	* Theome count:  19 (10,212 left)
+* Kinuntir Sacred Swamp
+	* Traversibility:  1/5
+	* Development:  0/5
+	* Population:  0/5
+	* Greatest asset:  Untouched wilderness
+	* Greatest cause of deficits:  Hostile land gods
+	* Theome count:  19 (10,193 left)
+* Rathrothack Unholy Forest
+	* Traversibility:  0/5
+	* Development:  1/5
+	* Population:  1/5
+	* Greatest asset:  Bizarre wilderness
+	* Greatest cause of deficits:  Hostile land gods
+	* Theome count:  19 (10,174 left)
+* Lyrabur River & Forest
+	* Traversibility:  2/5
+	* Development:  0/5
+	* Population:  1/5
+	* Greatest asset:  Navigable river
+	* Greatest cause of deficits:  Hostile land gods
+	* Special note:  Usually called 'The Lyrabur'
+	* Theome count:  19 (10,155 left)
+* Nation of Zenetheria
+	* Traversibility:  3/5
+	* Development:  2/5
+	* Population:  1/5
+	* Greatest asset:  Nationalistic villages
+	* Greatest cause of deficits:  Hostile land gods
+	* Special note:  There's a twisting ribbon of usable theomes here, but Zenetheria mostly an impenetrable forest.
+	* Theome count: 19 (10,136 left)
+* Alengang Forest
+	* Traversibility:  4/5
+	* Development:  1/5
+	* Population:  1/5
+	* Greatest asset:  Story monoliths
+	* Greatest cause of deficits:  Hostile land gods
+	* Special note:  These ones tolerate people who camp for a while on routes between the monoliths, but tolerate NO PERMANENT SERVICES.
+	* Special note:  There are two gargoyle cities in Alengang forest.
+	* Theome count:  19 (10,117 left)
+* Rusting Wastes
+	* Traversibility:  0/5
+	* Development:  0/5
+	* Population:  0/5
+	* Greatest asset:  Unusual landscapes
+	* Greatest cause of deficits:  Hostile land gods
+	* Theome count:  19 (10,098 left)
+* Nyskelia-vicinity
+	* Traversibility:  1/5
+	* Development:  2/5
+	* Population:  2/5
+	* Greatest asset:  Sacred library of Nyskelia
+	* Greatest cause of deficits:  'Negotiable' wilderness areas
+	* Theome count:  19 (10,079 left)
+* Veskidrae Verdant Range
+	* Traversibility:  1/5
+	* Development:  2/5
+	* Population:  1/5
+	* Greatest asset:  Georgous landscapes
+	* Greatest cause of deficits:  Mountainous terrain
+	* Theome count:  19 (10,060 left)
 * 

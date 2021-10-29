@@ -304,4 +304,17 @@ Region clusters:
 	* Greatest asset:  Georgous landscapes
 	* Greatest cause of deficits:  Mountainous terrain
 	* Theome count:  19 (10,060 left)
-* 
+* Trenti Megacity Region
+	* Traversibility:  3/5
+	* Development:  5/5
+	* Population:  5/5
+	* Greatest asset:  Population
+	* Greatest cause of deficits:  Lack of natural resources
+	* Theome count:  19 (10,041 left)
+* Gallinayan False City
+	* Traversibility:  2/5
+	* Development:  5/5
+	* Population:  1/5
+	* Greatest asset:  Pre-existing structures
+	* Greatest cause of deficits:  Negotiable land gods
+	* Theome count:  19 (10,022 left)

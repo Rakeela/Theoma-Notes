@@ -350,5 +350,42 @@ Region clusters:
 	* Greatest asset:  Gatherable plants
 	* Greatest cause of deficits:  Hostile land gods
 	* Theome count:  19 (9,946 left)
-
-- Next 4 theomes note (delete this after drafting them): a 4-region cluster of areas broken up into flying rocks to create a large habitable surface area for cave-dwelling flying lizards.
+* Iskimkel Flight
+	* Traversibility:  2/5
+	* Development:  5/5
+	* Population:  4/5
+	* Greatest asset:  Flying mountain range
+	* Greatest cause of deficits:  Flying mountain range
+	* Special note:  Trades with underworld
+	* Theome count:  19 (9,927 left)
+* Echaleon Flight
+	* Traversibility:  2/5
+	* Development:  4/5
+	* Population:  3/5
+	* Greatest asset:  Flying mountain range
+	* Greatest cause of deficits:  Negotiable land gods
+	* Special note:  Trades with underworld
+	* Theome count:  19 (9,908 left)
+* Swaldar Flight
+	* Traversibility:  2/5
+	* Development:  3/5
+	* Population:  3/5
+	* Greatest asset:  Flying mountain range
+	* Greatest cause of deficits:  Sparse and barren
+	* Theome count:  19 (9,889 left)
+* Drailoranth Flight
+	* Traversibility:  1/5
+	* Development:  4/5
+	* Population:  2/5
+	* Greatest asset:  Verdant flying rocks
+	* Greatest cause of deficits:  Organic air pollution
+	* Special note:  Trades with underworld
+	* Theome count:  19 (9,870 left)
+* Sacred Beacon Hub
+	* Traversibility:  1/5
+	* Development:  5/5
+	* Population:  1/5
+	* Greatest asset:  (Arguable) geomantic center of Theoma
+	* Greatest cause of deficits:  Travel bans enforced by land gods
+	* Special note:  Extreme mystic risk
+	* Theome count:  19 (9,851 left)

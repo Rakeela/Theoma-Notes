@@ -318,3 +318,25 @@ Region clusters:
 	* Greatest asset:  Pre-existing structures
 	* Greatest cause of deficits:  Negotiable land gods
 	* Theome count:  19 (10,022 left)
+* Keydinar Rainforest
+	* Traversibility:  4/5
+	* Development:  4/5
+	* Population:  2/5
+	* Greatest asset:  Inhabited forest region
+	* Greatest cause of deficits:  Frequent fog
+	* Theome count:  19 (10,003 left)
+* Snetheria-Vicinity
+	* Traversibility:  1/5
+	* Development:  2/5
+	* Population:  3/5
+	* Greatest asset:  Large population
+	* Greatest cause of deficits:  Aged population
+	* Special note:  Dead-end on trade routes
+	* Theome count:  19 (9,984 left)
+* Enoldar Desert
+	* Traversibility:  3/5
+	* Development:  1/5
+	* Population:  0/5
+	* Greatest asset:  Trade route
+	* Greatest cause of deficits:  Desert
+	* Theome count:  19 (9,965 left)

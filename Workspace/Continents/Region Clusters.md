@@ -10,6 +10,9 @@ Might split this again into thematic groups.  Such as Usktang and Uskbana, which
 Credit to www.rinkworks.com/namegen/ for assisting with generating thousands of names.
 
 ---
+There's no unifying endeavor here, these are going to be totally unbalanced later.  Much of this work will need to be redone... repeatedly.
+
+---
 
 Region clusters:
 * Usktelu-vicinity

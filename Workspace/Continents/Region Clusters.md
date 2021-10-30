@@ -385,7 +385,24 @@ Region clusters:
 	* Traversibility:  1/5
 	* Development:  5/5
 	* Population:  1/5
-	* Greatest asset:  (Arguable) geomantic center of Theoma
+	* Greatest asset:  Holy center of Querent-Querent
 	* Greatest cause of deficits:  Travel bans enforced by land gods
 	* Special note:  Extreme mystic risk
+	* Special note:  Most of these theomes are full of "ineffectual" machinery in perfect working order.  People should not mess with these machines.
 	* Theome count:  19 (9,851 left)
+* Korrellakanth Sacred Forest
+	* Traversibility:  3/5
+	* Development:  0/5
+	* Population:  1/5
+	* Greatest asset:  Peaceful forest settlements
+	* Greatest cause of deficits:  Small primitivist communes
+	* Theome count:  19 (9,832 left)
+* Amazonite Barrens
+	* Traversibility:  4/5
+	* Development:  1/5
+	* Population:  1/5
+	* Greatest asset:  Abundant silicates
+	* Greatest cause of deficits:  Lack of other resources
+	* Special note:  These are missing theomes.
+	* Special note:  The local climate is rather dry here.
+	* Theome count:  19 (9,813 left)

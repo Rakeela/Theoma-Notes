@@ -343,3 +343,12 @@ Region clusters:
 	* Greatest asset:  Trade route
 	* Greatest cause of deficits:  Desert
 	* Theome count:  19 (9,965 left)
+* Skrikan Sacred Forest
+	* Traversibility:  1/5
+	* Development:  0/5
+	* Population:  0/5
+	* Greatest asset:  Gatherable plants
+	* Greatest cause of deficits:  Hostile land gods
+	* Theome count:  19 (9,946 left)
+
+- Next 4 theomes note (delete this after drafting them): a 4-region cluster of areas broken up into flying rocks to create a large habitable surface area for cave-dwelling flying lizards.

@@ -401,8 +401,44 @@ Region clusters:
 	* Traversibility:  4/5
 	* Development:  1/5
 	* Population:  1/5
-	* Greatest asset:  Abundant silicates
+	* Greatest asset:  Abundance of green silicates
 	* Greatest cause of deficits:  Lack of other resources
 	* Special note:  These are missing theomes.
 	* Special note:  The local climate is rather dry here.
 	* Theome count:  19 (9,813 left)
+* Vizesewn Sacred Forest
+	* Traversibility:  1/5
+	* Development:  0/5
+	* Population:  0/5
+	* Greatest asset:  One negotiable swamp theome
+	* Greatest cause of deficits:  Hostile land gods
+	* Special note:  It's really more of a swamp, but there's a lot of trees...
+	* Theome count:  19 (9,794 left)
+* Ssilyn-Vicinity
+	* Traversibility:  2/5
+	* Development:  1/5
+	* Population:  2/5
+	* Greatest asset:  Fast-growing reeds
+	* Greatest cause of deficits:  It's a swamp
+	* Theome count:  19 (9,775 left)
+* City of Izra Vicinity
+	* Traversibility:  4/5
+	* Development:  3/5
+	* Population:  4/5
+	* Greatest asset:  Proximity to world-famous city
+	* Greatest cause of deficits:  Mostly farms or sacred forests
+	* Theome count:  19 (9,756 left)
+* Ithivast-Vicinity
+	* Traversibility:  2/5
+	* Development:  2/5
+	* Population:  2/5
+	* Greatest asset:  Ithivast is a jewel
+	* Greatest cause of deficits:  Cluster is mostly wilderness (forever?)
+	* Theome count:  19 (9,737 left)
+* Selthen Highlands
+	* Traversibility:  3/5
+	* Development:  1/5
+	* Population:  1/5
+	* Greatest asset:  Great view
+	* Greatest cause of deficits:  Few valuable minerals
+	* Theome count:  19 (9,718 left)

@@ -472,4 +472,14 @@ Region clusters:
 	* Development:  3/5
 	* Population:  3/5
 	* Greatest asset:  Everlasting iron mines
-	* Greatest cause of deficits:  
+	* Greatest cause of deficits:  Economic dependency on middling value mineral processing
+	* Special note:  These are underground mines, and they're fate-favored.  The land gods want to avoid having open pit iron mines despoil the landscape.
+	* Theome count:  19 (9,641 left)
+* Nayichi Highlands
+	* Traversibility:  4/5
+	* Development:  3/5
+	* Population:  1/5
+	* Greatest asset:  Benevolent fate manipulation
+	* Greatest cause of deficits:  Unsettling fate manipulation
+	* Special note:  The Nayichi highlands are a mystic region, but less dangerous than most mystic regions.  They don't confront people with their flaws so much as they make errors turn out for the better, but they also press people to make errors, too.  There is a certain level of acceptance required to live in a place with such mischevious land gods.
+	* Theome count:  19 (9,422 left)

@@ -405,6 +405,7 @@ Region clusters:
 	* Greatest cause of deficits:  Lack of other resources
 	* Special note:  These are missing theomes.
 	* Special note:  The local climate is rather dry here.
+	* Special note:  This area is being quarried for valuable, appealing stone that trades widely, making it more notable than it would be.
 	* Theome count:  19 (9,813 left)
 * Vizesewn Sacred Forest
 	* Traversibility:  1/5
@@ -442,3 +443,33 @@ Region clusters:
 	* Greatest asset:  Great view
 	* Greatest cause of deficits:  Few valuable minerals
 	* Theome count:  19 (9,718 left)
+* Nenyrilith Mountains
+	* Traversibility:  4/5
+	* Development:  1/5
+	* Population:  0/5
+	* Greatest asset:  Benevolent travel blessings
+	* Greatest cause of deficits:  Land god resistance to settling
+	* Special note:  This terrain is bad for travel, but people who enter the Nenyrilith Mountains intending to cross over are fated to succeed.
+	* Theome count:  19 (9,698 left)
+* Yiddakra Sacred Savannah
+	* Traversibility:  2/5
+	* Development:  0/5
+	* Population:  0/5
+	* Greatest asset:  Large wild animals
+	* Greatest cause of deficits:  Hostile land gods
+	* Theome count:  19 (9,679 left)
+* Athakra-Vicinity
+	* Traversibility:  5/5
+	* Development:  2/5
+	* Population:  3/5
+	* Greatest asset:  Highway system
+	* Greatest cause of deficits:  Arid climate
+	* Special note:  This is a settled savannah near Yiddakra.
+	* Special note:  These are mostly missing theomes.
+	* Theome count:  19 (9,660 left)
+* Chathakra Highlands
+	* Traversibility:  3/5
+	* Development:  3/5
+	* Population:  3/5
+	* Greatest asset:  Everlasting iron mines
+	* Greatest cause of deficits:  

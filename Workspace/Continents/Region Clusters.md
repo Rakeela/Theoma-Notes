@@ -483,3 +483,11 @@ Region clusters:
 	* Greatest cause of deficits:  Unsettling fate manipulation
 	* Special note:  The Nayichi highlands are a mystic region, but less dangerous than most mystic regions.  They don't confront people with their flaws so much as they make errors turn out for the better, but they also press people to make errors, too.  There is a certain level of acceptance required to live in a place with such mischevious land gods.
 	* Theome count:  19 (9,422 left)
+* Raneyha Sacred Plains
+	* Traversibility:  5/5
+	* Development:  1/5
+	* Population:  0/5
+	* Greatest asset:  Safe roads
+	* Greatest cause of deficits:  Hostile land gods
+	* Special note:  It's really a desert, but the earth here is too hard for sandstorms.
+	* Theome count:  19 (9,403 left)

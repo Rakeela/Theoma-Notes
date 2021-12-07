@@ -1,4 +1,4 @@
-Niazon's geography remains indeterminate.
+Niazon is a northerly continent attached to Ilyrra and quite cold, butting up into the Sea of Death.
 
 ---
 There are 2060 theomes in Niazon:

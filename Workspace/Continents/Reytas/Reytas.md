@@ -1,4 +1,4 @@
-Reytas is the most southern continent on Theoma, and the only continent with land connections to the Faewall.
+Reytas is the most southern continent on Theoma, and the only continent with land connections to the Firewall.
 
 ---
 There are 1545 theomes in Reytas:

@@ -6,3 +6,4 @@ Meta-religions are most distinctly pursued by geomancers, who travel widely and 
 List of Meta-Religions:
 [[Querent Querent]]
 [[Uttermost Dark]]
+[[]]

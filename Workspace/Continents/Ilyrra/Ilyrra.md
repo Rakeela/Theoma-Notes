@@ -13,6 +13,8 @@ I have a globe on order which I may label with France-sized regions to establish
 
 ...it has just occurred to me that I don't like the continents I've allocated with the numbers that I've allocated for them.  The landmass is moderately horrible, but I can still work with it.  The countdown sequence here with the number remaining is what. made me realize just how untenable this is.  So while I'll keep the written and unwritten works here, I'm going to transfer out the undefined ones.
 
+---
+I like these continent names, but I might totally reassign them.  Kelkaith can be bigger and put where I've currently got Illyrra.  Ilyrra is going to become an arid highlands kind of place in the big central continent.  It's still the biggest continent, but I've rebalanced them.
 
 ---
 Unwritten Regions:
